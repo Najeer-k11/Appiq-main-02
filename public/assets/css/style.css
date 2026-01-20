@@ -3988,7 +3988,8 @@ footer .bottom_footer .developer_text a {
     max-width: 100%;
 }
 
-* -------------------Pricing-Section---------------------- */ .pricing_section {
+/* -------------------Pricing-Section---------------------- */
+.pricing_section {
     padding-left: 15px !important;
     padding-right: 15px !important;
 }
